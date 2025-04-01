@@ -26,10 +26,10 @@ Feel free to explore the files to see the Q&A format I've adopted!
 
 ## Resources
 
-The `resources` directory includes additional links and recommended reading materials that I found helpful during my learning journey:
+The `resources` directory includes additional links and recommended reading materials that I found helpful while going through each topic lessons:
 
-- **links.md**: A compilation of useful links related to Web3.
-- **books.md**: Recommended books for further reading on Web3 technologies.
+- **Blockchain_Basics.md**: Questions and answers for Lessons on Blockchain Basics
+- ...
 - **Cyfrin Updraft**: Check out the [Cyfrin Updraft Courses on web3](https://updraft.cyfrin.io/courses) for comprehensive lessons on Web3!
 
 ## Contributing
