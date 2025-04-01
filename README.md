@@ -1,6 +1,6 @@
 # Web3 Learnings
 
-This repository serves as a collection of questions and answers from various lessons, following the **Cyfrin Updraft** website.
+This repository serves as a collection of questions and answers from various lessons, following the **Cyfrin Updraft** course.
 
 ## Table of Contents
 
